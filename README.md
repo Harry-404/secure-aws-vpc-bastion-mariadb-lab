@@ -144,4 +144,8 @@ To avoid charges:
 - Monitor with CloudWatch.
 
 
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/86577013/363aec4a-8d66-44da-ad7e-1e0256ee33fe/Steps-to-Set-Up-MariaDB-on-EC2-and-Connect-to-RDS-MariaDB.pdf)
+## Connect with Me
+
+<a href="https://www.linkedin.com/in/hiranmaya-biswas-505a1823a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"> </a> 
+<a href="https://github.com/Harry-404" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"> </a>
+
