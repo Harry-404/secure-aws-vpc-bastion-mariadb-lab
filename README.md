@@ -146,6 +146,11 @@ To avoid charges:
 
 ## Connect with Me
 
-<a href="https://www.linkedin.com/in/hiranmaya-biswas-505a1823a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"> </a> 
-<a href="https://github.com/Harry-404" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"> </a>
+## Connect
 
+<a href="https://www.linkedin.com/in/hiranmaya-biswas-505a1823a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" height="30">
+</a>
+<a href="https://github.com/Harry-404" target="_blank" style="margin-left:10px;">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" alt="GitHub" height="30">
+</a>
